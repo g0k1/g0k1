@@ -4,11 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g0k1" alt="g0k1" /></a> </p>
 
-- 🔭 I’m currently working on [love-stresser](https://love-stresser.me/)
+- 🔭 I’m currently working on [Goki-Project]()
 
-- 🌱 I’m currently learning **Web developpement , Lua**
-
-- 📫 How to reach me **g0ki0422 on discord** 
+- 🌱 I’m currently learning **Web developpement , Lua, Python , NodeJs**
 <p align="left">
 </p>
 
