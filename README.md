@@ -8,8 +8,7 @@
 
 - 🌱 I’m currently learning **Web developpement , Lua**
 
-- 📫 How to reach me **g0ki0422 on discord**
-- 
+- 📫 How to reach me **g0ki0422 on discord** 
 <p align="left">
 </p>
 
